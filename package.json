@@ -1,0 +1,7 @@
+{
+  "name": "MODLR Workflow Plugin",
+  "version": "1.0.0",
+  "description": "Open source drag and drop plugin used to extend MODLRs capabilities.",
+  "author": "John Hamer",
+  "license": "ISC"
+}
